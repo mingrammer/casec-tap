@@ -1,9 +1,9 @@
 class Casec < Formula
   desc "A text case converter"
   homepage "https://github.com/mingrammer/casec"
-  url "https://github.com/mingrammer/casec/releases/download/v0.0.1/casec_0.0.1_darwin_amd64.tar.gz"
-  version "0.0.1"
-  sha256 "66f1f0b02f12ec6ef392afa5612c308e7fa692f768d528a8f08faa20c1ef3bbf"
+  url "https://github.com/mingrammer/casec/releases/download/v0.0.2/casec_0.0.2_darwin_amd64.tar.gz"
+  version "0.0.2"
+  sha256 "d22df563307f636c2d15ad5a25ab3a3b931fbef3937175dee8cbf935a035e0fd"
 
   def install
     bin.install "casec"
