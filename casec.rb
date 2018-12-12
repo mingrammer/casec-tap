@@ -3,7 +3,7 @@ class Casec < Formula
   homepage "https://github.com/mingrammer/casec"
   url "https://github.com/mingrammer/casec/releases/download/v0.1.2/casec_0.1.2_darwin_amd64.tar.gz"
   version "0.1.2"
-  sha256 "b2e31cd821e45314b647b4ea304160d61d0039e5e73a949390d83db25e47ce29"
+  sha256 "5ba1d6777a5073e68fab0498a854b0693432791899bbb082c70b220727bac305"
 
   def install
     bin.install "casec"
